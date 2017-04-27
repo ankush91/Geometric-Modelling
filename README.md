@@ -1,1 +1,2 @@
 # Geometric-Modelling
+This folder contains corresponding code for graduate level Computer Graphics Class (CS 536). The main features of the class were 2D and 3D curve and surface geometric modelling. The algorithms as part of respective folders include Arbitrary Degree Bezier Curves, Bicubic Bezier Patches, Catmull Rom Splines, Superellipsoids and Hierarchical models. The readme.txt file in each folder outlines further instructions pertaining to this code.
