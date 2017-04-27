@@ -1,0 +1,14 @@
+./CG_hw4 -u 21 -v 11 > out1.iv
+./CG_hw4 -u 21 -v 11 -S > out1s.iv
+
+./CG_hw4 -t 0.23 -r 0.1 > out2.iv
+./CG_hw4 -t 0.23 -r 0.1 -S > out2s.iv
+
+./CG_hw4 -A 1.2 -B 1.1 -C 2.3 -r 0.09 -t 1.0 -u 25 -v 13 > out3.iv
+./CG_hw4 -A 1.2 -B 1.1 -C 2.3 -r 0.09 -t 1.0 -u 25 -v 13 > out3s.iv
+
+./CG_hw4 -A 1.9 -B 2.1 -C 0.5 -r 1.9 -t 1.6 -u 23 -v 12 > out4.iv
+./CG_hw4 -A 1.9 -B 2.1 -C 0.5 -r 1.9 -t 1.6 -u 23 -v 12 > out4s.iv
+
+./CG_hw4 -A 2.5 -B 1.3 -C 3.3 -r 0.5 -t 1.35 -u 29 -v 15 > out5.iv
+./CG_hw4 -A 2.5 -B 1.3 -C 3.3 -r 0.5 -t 1.35 -u 29 -v 15 > out5s.iv
