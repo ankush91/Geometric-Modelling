@@ -1,7 +1,7 @@
- # Geometric-Modelling
+ # Curve & Surface Geometric Modelling
 This folder contains corresponding code for graduate level Computer Graphics Class (CS 536) taught at drexel university. The main features of the class were 2D and 3D curve and surface geometric modelling. </br>
 
-# Repository Structure
+## Repository Structure
 The algorithms as part of corresponding folders include: </br>
 * Arbitrary Degree Bezier Curves
 * Bicubic Bezier Patches
