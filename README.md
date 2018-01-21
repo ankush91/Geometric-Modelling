@@ -9,6 +9,6 @@ The algorithms as part of corresponding folders include: </br>
 * Superellipsoids 
 * Hierarchical models </br>
 
-The readme.txt file in each of the above folder(s) outlines code features & further instructions pertaining to compiling and running code.  </br>
-
-The code is implemented in C++ (.cpp) and the output files are generated in open inventor (.iv) format.
+## Additional Notes:
+* The readme.txt file in each of the above folder(s) outlines code features & further instructions pertaining to compiling and running code
+* The code is implemented in C++ (.cpp) and the output files are generated in open inventor (.iv) format
