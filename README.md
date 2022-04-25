@@ -9,6 +9,6 @@ The following algorithms are implemented in different subdirectories: </br>
 * Superellipsoids 
 * Hierarchical models </br>
 
-### Notes:
+### Notes
 * The README in each of the above subdirs details source code as well as instructions pertaining to compiling and running code.
 * All code is implemented in C++ (.cpp) and output graphs are rendered in open-inventor (.iv).
