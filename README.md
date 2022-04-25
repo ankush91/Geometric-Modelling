@@ -10,5 +10,5 @@ The following algorithms are implemented: </br>
 * Hierarchical models </br>
 
 ## Additional Notes
-* The readme.txt file in each of the above folder(s) outlines code features & further instructions pertaining to compiling and running code
-* The code is implemented in C++ (.cpp) and the output files are generated in open inventor (.iv) format
+* The README in each of the above subdirs details source code + instructions pertaining to compiling and running code.
+* All code is implemented in C++ (.cpp) and output graphs are rendered in open-inventor (.iv).
