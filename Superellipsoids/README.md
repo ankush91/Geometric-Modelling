@@ -16,7 +16,7 @@
 * `flatshade` is the function for the faces of the Triangle along the body and at the poles
 * Additional Functions are present to print out points to the console in `.iv` format
 
-### Language of Choice and OS 
+### Programming Language and OS 
 * The code is implemented in C++ on the tux (Linux) platform and would require the g++ compiler to compile
 
 ### Instructions
