@@ -10,13 +10,13 @@
 * `computeSum` implements the sum part of the equation
 * `convertNorm1` & `convertNorm2` are used to generate Tangents
 * `normal` is the function to generate normals
-* `flatshade` is the function for the general Triangle Indices. 
+* `flatshade` is the function for the general Triangle Indices
 * Additional Functions are present to print out the curve coordinates and Input points to the console in `.iv` format
 * The file `patchPoints.txt` contains some default point options
 * `filename.txt` consists of the other example given in the specification of the Assignment. You could use/modify those example files itself and run
 
-### Language of Choice and OS
-* The code is implemented in C++ on the tux (Linux) platform and would require the g++ compiler to compile.
+### Programming Language and OS
+* The code is implemented in C++ on the tux (Linux) platform and would require the g++ compiler to compile
 
 ### Instructions
 * `cd` into the directory of the folder containing `Source.cpp` and type `make`

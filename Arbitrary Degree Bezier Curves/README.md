@@ -7,7 +7,7 @@
 * Additional functions print out the curve coordinates and control points to the console in `.iv` format
 * The file `cpts_in.txt` contains some default point options. You could modify that file itself
 
-### Language of Choice and OS
+### Programming Language and OS
 * The code is implemented in C++ on the tux (Linux) platform and would require the g++ compiler to compile.
 
 ### Instructions 

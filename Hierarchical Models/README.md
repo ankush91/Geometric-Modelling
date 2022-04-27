@@ -3,12 +3,12 @@
 * `Source.cpp`
 
 ### Details
-* The code is implemented as modular as possible and command-line arguments are set as parameters to `Parameters` Class. 
-* `cuboid()` is the general function to compute cuboids according to the link number or iteration number.
-* Additional Functions are present for matrix multiplications and to print out the points to the console in `.iv` format. 
+* The code is implemented as modular as possible and command-line arguments are set as parameters to `Parameters` Class 
+* `cuboid()` is the general function to compute cuboids according to the link number or iteration number
+* Additional Functions are present for matrix multiplications and to print out the points to the console in `.iv` format
 
-### Language of Choice and OS
-* The code is implemented in C++ on the tux (Linux) platform and would require the g++ compiler to compile.
+### Programming Language and OS
+* The code is implemented in C++ on the tux (Linux) platform and would require the g++ compiler to compile
 
 ### Instructions
 * cd into the directory of the folder containing `Source.cpp` and the `make` file.
@@ -17,4 +17,4 @@
 * Follow the run-time command by `> [filename].iv` to redirect the output to `[filename].iv` format
 
 ### Cleanup
-* You can type `make rm` to remove the executable `CG_hw5` and run again.
+* You can type `make rm` to remove the executable `CG_hw5` and run again
